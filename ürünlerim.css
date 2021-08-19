@@ -1,0 +1,13 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.ürünler {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.ürünler li {
+  list-style: auto;
+  margin: 20px;
+}
